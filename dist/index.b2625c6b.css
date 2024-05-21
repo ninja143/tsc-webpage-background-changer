@@ -1,0 +1,28 @@
+html {
+  font-size: 63.5%;
+}
+
+body {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  display: flex;
+}
+
+h3.msgh2 {
+  color: #fff;
+  opacity: .75;
+  background-color: #906262;
+  border: 1px solid #320606;
+  border-radius: 2px 8px;
+  padding: 10px;
+  font-weight: bold;
+}
+
+button {
+  margin-top: 1rem;
+  padding: .6rem 1.2rem;
+  font-weight: bold;
+}
+/*# sourceMappingURL=index.b2625c6b.css.map */

@@ -1,0 +1,26 @@
+html {
+    font-size: 63.5%;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h3.msgh2 {
+    padding: 10px;
+    color: #fff;
+    opacity: 0.75;
+    background-color: #906262;
+    font-weight: bold;
+    border: 1px solid #320606;
+    border-radius: 2px 8px;
+}
+button {
+    font-weight: bold;
+    padding: 0.6rem 1.2rem;
+    margin-top: 1rem;
+}
